@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCPascualGarcia
-- 👀 I’m interested in AWS and Cybersecurity
-- 🌱 I’m currently learning CloudFormation and Amplify
-- 💞️ I’m looking to collaborate on Fun Projects to do with AWS
+- 👀 I’m interested in Cloud Computing and Cybersecurity
+- 🌱 I’m currently learning CloudFormation and Amplify by AWS
+- 💞️ I’m looking to collaborate on fun projects to do with AWS
 - 📫 You can reach me in this account
 - ⚡ Fun fact: I play guitar for fun
 
